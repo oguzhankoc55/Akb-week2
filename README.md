@@ -29,5 +29,5 @@ Projeyi çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
    - Projeyi aşağıdaki komutla çalıştırın: `dotnet run`
 
 5. **Swagger Dokümantasyonu:**
-   - Projeyi başarıyla başlattıktan sonra, Swagger dokümantasyonu için tarayıcınızda `https://localhost:5001/swagger` adresini ziyaret edin.
+   - Projeyi başarıyla başlattıktan sonra, Swagger dokümantasyonu için tarayıcınızda `https://localhost:7149/swagger` adresini ziyaret edin.
 
