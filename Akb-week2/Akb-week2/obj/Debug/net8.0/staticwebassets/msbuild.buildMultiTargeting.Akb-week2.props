@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Akb-week2.props" />
+</Project>

@@ -1,0 +1,6 @@
+@Akb_week2_HostAddress = http://localhost:5201
+
+GET {{Akb_week2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
